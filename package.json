@@ -1,0 +1,7 @@
+{
+    "name": "crypt",
+    "version": "1.0.0",
+    "description": "criptografia de arquivos com nodeJS",
+    "main": "crypt/index.js",
+    "bin": "crypt/index.js"
+}
